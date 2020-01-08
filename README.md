@@ -25,17 +25,33 @@
 
 ### List of Tools to Work with Kannada
 
-* Website
-  * [So Simple theme](https://slabs.tech/gaganyatri_kannada/)
-    * [code @ github](https://github.com/mmistakes/so-simple-theme)
-* Code Editor / IDE
-  * Atom IDE - with atom-i18n packe
-    * [code @ github](https://github.com/liuderchi/atom-i18n)
+* Build end-to-end s/w to run Kannada on a RPi or Linux distro
 
-* TODO
-  * Password Manager Tools
-    * Keepass2Android
-    * Keepass
+
+* Required
+| Tool | Link | Status |
+|-------|-------|-------|
+| Browser | -- | Not Started |
+| Text Editor | -- | Under Progress |
+| Music Player | -- | Not Started |
+| Video Player | -- | Not Started |
+| Code IDE | -- | Under Progress  |
+| git | -- | Not Started |
+| PDF reader | -- | Not Started |
+
+
+* My Current Toolbox
+  * Website
+    * [So Simple theme](https://slabs.tech/gaganyatri_kannada/)
+      * [code @ github](https://github.com/mmistakes/so-simple-theme)
+    * Code Editor / IDE
+      * Atom IDE - with atom-i18n packe
+      * [code @ github](https://github.com/liuderchi/atom-i18n)
+
+    * TODO
+      * Password Manager Tools
+        * Keepass2Android
+        * Keepass
 
 
 PS :
